@@ -1,0 +1,2 @@
+# UIButtonEdgeAction
+解决UIButton选中后移开70px才响应的边界事件, 可自由定制移开边界px长度
